@@ -1,0 +1,47 @@
+{
+  "name": "graphics-resources",
+  "version": "1.0.0",
+  "description": "a list of graphic programming resources",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "graphic",
+    "blogs",
+    "list",
+    "link",
+    "awesome",
+    "resources",
+    "resource",
+    "tutorial",
+    "tutorials",
+    "guide",
+    "guides",
+    "opengl",
+    "webgl",
+    "glsl",
+    "hlsl",
+    "dx10",
+    "game",
+    "programming",
+    "graphics",
+    "gfx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/graphics-resources.git"
+  },
+  "homepage": "https://github.com/graphics-resources",
+  "bugs": {
+    "url": "https://github.com/graphics-resources/issues"
+  }
+}
