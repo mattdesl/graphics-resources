@@ -2,6 +2,16 @@
 
 A few of my bookmarks related to game development and realtime graphics programming.
 
+## Bulk Download
+
+You can use [gh-readme-scrape](https://github.com/mattdesl/gh-readme-scrape) to bulk download some of the content here for offline reading. For example:
+
+```sh
+gh-readme-scrape mattdesl/graphics-resources resources/ -e pdf,pptx,ppt --rename
+```
+
+This will download all PDFs and power-point slides into a folder called `resources`.
+
 ## Topics
 
 - [Physically Based Rendering](#physically-based-rendering)
@@ -15,8 +25,9 @@ A few of my bookmarks related to game development and realtime graphics programm
 - [Non-Photorealistic Rendering](#non-photorealistic-rendering)
 - [Math](#math)
 - [Misc Optimizations](#misc-optimizations)
-- [Tools](#tools)
+- [Collections](#collections)
 - [Bloggers](#bloggers)
+- [Tools](#tools)
 
 ## Physically Based Rendering
 
@@ -40,7 +51,6 @@ A few of my bookmarks related to game development and realtime graphics programm
 - [Realistic Rendering of Blue Ice (2009)](http://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc09/Salas/Vanessa_Salas_Castillo.pdf)
 - [Advanced WebGL - Irradiance Environment Map (2011)](http://codeflow.org/entries/2011/apr/18/advanced-webgl-part-3-irradiance-environment-map/)
 - [Irradiance Volumes for Games (2012)](http://developer.amd.com/wordpress/media/2012/10/Tatarchuk_Irradiance_Volumes.pdf)
-- [List of Realtime Global Illumination Techniques](https://extremeistan.wordpress.com/2014/05/11/realtime-global-illumination-techniques-collection/)
 
 ## Color Space
 
@@ -126,6 +136,12 @@ A few of my bookmarks related to game development and realtime graphics programm
 - [Combined Approximation of Fresnel Visibility (2015)](http://www.filmicworlds.com/2015/03/17/combined-approximation-of-fresnelvisibility/)
 - [Compact Normal Storage for Small G-Buffers (2009)](http://aras-p.info/texts/CompactNormalStorage.html)
 - [Normal Mapping without Precomputed Tangents (2013)](http://www.thetenthplanet.de/archives/1180)
+
+## Collections
+
+- [SIGGRAPH Real-Time Rendering Publications](http://kesen.realtimerendering.com/)
+- [List of Realtime Global Illumination Techniques](https://extremeistan.wordpress.com/2014/05/11/realtime-global-illumination-techniques-collection/)
+- [David Arcila's Game Development Resources](https://game-development.zeef.com/david.arcila)
 
 ## Bloggers
 
