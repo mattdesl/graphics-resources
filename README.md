@@ -116,7 +116,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [Watercolor Inspired Non-Photorealistic Rendering for Augmented Reality (2008)](http://www.cc.gatech.edu/~turk/my_papers/npr_ar_2008.pdf)
 - [Advanced Real-Time Cel Shading in OpenGL (2013)](http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S12/final_projects/hutchins_kim.pdf)
 - [Stroke-Based Rendering (2002)](http://web.cs.ucdavis.edu/~ma/SIGGRAPH02/course23/notes/S02c23_3.pdf)
-- [Hand Drawn Rendering (2012)](http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S12/final_projects/mcmullan_ooi.pdf0)
+- [Hand Drawn Rendering (2012)](http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S12/final_projects/mcmullan_ooi.pdf)
 - [Real-Time Ink Dispersion in Absorbent Paper (2005)](http://visgraph.cse.ust.hk/MoXi/moxi.pdf)
 - ["Nijimi" Rendering Algorithm for Creating Quality Black Ink Paintings (2003)](http://cgm.cs.ntust.edu.tw/steve/www/paper/Abstract/941129/CG2003/01214460.pdf)
 - [WYSIWYG NPR: Drawing Strokes Directly on 3D Models (2002)](http://gfx.cs.princeton.edu/pubs/Kalnins_2002_WND/wnpr-final.pdf)
