@@ -129,7 +129,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [3D Math Primer for Graphics and Game Development, 2nd Ed (2011)](http://www.amazon.ca/Math-Primer-Graphics-Development-Edition/dp/1568817231)
 - [math-as-code (2015)](https://github.com/Jam3/math-as-code)
 - [CodingLabs: World, View, Projection Matrices](http://www.codinglabs.net/article_world_view_projection_matrix.aspx)
-- [Interactive Introduction to Noise Functions](http://www.redblobgames.com/articles/noise/introduction.html)
+- [Interactive Introduction to Noise Functions (2013)](http://www.redblobgames.com/articles/noise/introduction.html)
 
 ## Misc Optimizations
 
