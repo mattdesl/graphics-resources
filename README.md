@@ -34,7 +34,7 @@ A few of my bookmarks related to game development and realtime graphics programm
 - [Spherical Harmonic Lighting: The Gritty Details (2003)](http://www.research.scea.com/gdc2003/spherical-harmonic-lighting.pdf)
 - [Spherical Harmonics for Beginners (2013)](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
 - [A Tiny Improvement of Oren-Nayar Reflectance Model (2012)](http://mimosa-pudica.net/improved-oren-nayar.html)
-- [Plausible Environment Lighting in Two Lines of Code (2013](http://casual-effects.blogspot.ca/2011/08/plausible-environment-lighting-in-two.html)
+- [Plausible Environment Lighting in Two Lines of Code (2013)](http://casual-effects.blogspot.ca/2011/08/plausible-environment-lighting-in-two.html)
 - [Microfacet Models for Refraction through Rough Surfaces (2007)](http://www.cs.cornell.edu/~srm/publications/egsr07-btdf.pdf)
 - [Artist Friendly Metallic Fresnel (2014)](http://jcgt.org/published/0003/04/03/paper.pdf)
 - [Realistic Rendering of Blue Ice (2009)](http://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc09/Salas/Vanessa_Salas_Castillo.pdf)
