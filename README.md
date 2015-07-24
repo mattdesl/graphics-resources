@@ -20,7 +20,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [Environments](#environments)
 - [Time](#time)
 - [Post-Processing](#post-processing)
-- [Distance Functions](#distance-functions)
+- [Ray Tracing & Distance Functions](#ray-tracing--distance-functions)
 - [Text, Lines & Shapes](#text-lines--shapes)
 - [Non-Photorealistic Rendering](#non-photorealistic-rendering)
 - [Math](#math)
@@ -64,6 +64,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [The Illustrative World of Team Fortress 2 (2008)](http://www.valvesoftware.com/publications/2008/GDC2008_StylizationWithAPurpose_TF2.pdf)
 - [Hardware-Accelerated Global Illumination by Image Space Photon Mapping (2009)](http://graphics.cs.williams.edu/papers/PhotonHPG09/)
 - [Ambient Occlusion Fields (2005)](https://mediatech.aalto.fi/~janne/aofields/)
+- [Phong Illumination Model (2012)](http://www.cs.utexas.edu/~bajaj/graphics2012/cs354/lectures/lect14.pdf)
 
 ## Environments
 
@@ -93,11 +94,12 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [GPU Gems 3: Motion Blur as a Post-Processing Effect (2008)](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch27.html)
 - [GPU Gems 3: Practical Post-Process Depth of Field (2008)](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch28.html)
 
-## Distance Functions
+## Ray Tracing & Distance Functions
 
 - [Fast Soft-Shadowing on Dynamic Height Fields (2008)](http://www.iro.umontreal.ca/~derek/files/hfvisib.pdf)
 - [Per-Pixel Displacement Mapping with Distance Functions (2005)](http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter08.html)
 - [Raymarching Distance Fields (2013)](http://9bitscience.blogspot.ca/2013/07/raymarching-distance-fields_14.html)
+- [Screen Space Glossy Reflections (2015)](http://roar11.com/2015/07/screen-space-glossy-reflections/)
 
 ## Text, Lines & Shapes
 
