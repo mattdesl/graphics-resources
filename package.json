@@ -38,10 +38,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/graphics-resources.git"
+    "url": "git://github.com/mattdesl/graphics-resources.git"
   },
-  "homepage": "https://github.com/graphics-resources",
+  "homepage": "https://github.com/mattdesl/graphics-resources",
   "bugs": {
-    "url": "https://github.com/graphics-resources/issues"
+    "url": "https://github.com/mattdesl/graphics-resources/issues"
   }
 }

@@ -31,6 +31,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 
 ## Physically Based Rendering
 
+- [Readings on Physically Based Rendering](https://interplayoflight.wordpress.com/2013/12/30/readings-on-physically-based-rendering/)
 - [The State of Rendering (2013)](https://www.fxguide.com/featured/the-state-of-rendering/)
 - [jMonkeyEngine's Physically Based Rendering (2014)](http://jmonkeyengine.org/299803/physically-based-rendering-part-one/)
 - [CodingLabs: Physically Based Rendering I](http://www.codinglabs.net/article_physically_based_rendering.aspx)
@@ -51,6 +52,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [Realistic Rendering of Blue Ice (2009)](http://nccastaff.bournemouth.ac.uk/jmacey/MastersProjects/MSc09/Salas/Vanessa_Salas_Castillo.pdf)
 - [Advanced WebGL - Irradiance Environment Map (2011)](http://codeflow.org/entries/2011/apr/18/advanced-webgl-part-3-irradiance-environment-map/)
 - [Irradiance Volumes for Games (2012)](http://developer.amd.com/wordpress/media/2012/10/Tatarchuk_Irradiance_Volumes.pdf)
+- [Wolfire Blog - Physically Based Rendering (2015)](http://blog.wolfire.com/2015/10/Physically-based-rendering)
 
 ## Color Space
 
@@ -146,6 +148,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [List of Realtime Global Illumination Techniques](https://extremeistan.wordpress.com/2014/05/11/realtime-global-illumination-techniques-collection/)
 - [David Arcila's Game Development Resources](https://game-development.zeef.com/david.arcila)
 - [awesome-opengl](https://github.com/eug/awesome-opengl)
+- [Readings on Physically Based Rendering](https://interplayoflight.wordpress.com/2013/12/30/readings-on-physically-based-rendering/)
 
 ## Bloggers
 
