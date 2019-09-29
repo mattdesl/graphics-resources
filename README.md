@@ -33,7 +33,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 
 - [Readings on Physically Based Rendering](https://interplayoflight.wordpress.com/2013/12/30/readings-on-physically-based-rendering/)
 - [The State of Rendering (2013)](https://www.fxguide.com/featured/the-state-of-rendering/)
-- [jMonkeyEngine's Physically Based Rendering (2014)](http://jmonkeyengine.org/299803/physically-based-rendering-part-one/)
+- [jMonkeyEngine's Physically Based Rendering (2014)](https://wiki.jmonkeyengine.org/jme3/advanced/pbr_part1.html)
 - [CodingLabs: Physically Based Rendering I](http://www.codinglabs.net/article_physically_based_rendering.aspx)
 - [CodingLabs: Physically Based Rendering II](http://www.codinglabs.net/article_physically_based_rendering_cook_torrance.aspx)
 - SIGGRAPH Shading Courses: [2012](http://blog.selfshadow.com/publications/s2012-shading-course/), [2013](http://blog.selfshadow.com/publications/s2013-shading-course/) and [2014](http://blog.selfshadow.com/publications/s2014-shading-course/)
@@ -43,7 +43,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
   - [Real Shading in Unreal Engine 4 (2013)](http://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_notes_v2.pdf)
   - [Physically Based Shading in Call of Duty: Black Ops (2013)](http://blog.selfshadow.com/publications/s2013-shading-course/lazarov/s2013_pbs_black_ops_2_notes.pdf)
 - [Deferred Shading Tutorial (2005)](http://gamedevs.org/uploads/deferred-shading-tutorial.pdf)
-- [Spherical Harmonic Lighting: The Gritty Details (2003)](http://www.research.scea.com/gdc2003/spherical-harmonic-lighting.pdf)
+- [Spherical Harmonic Lighting: The Gritty Details (2003)](http://silviojemma.com/public/papers/lighting/spherical-harmonic-lighting.pdf)
 - [Spherical Harmonics for Beginners (2013)](https://dickyjim.wordpress.com/2013/09/04/spherical-harmonics-for-beginners/)
 - [A Tiny Improvement of Oren-Nayar Reflectance Model (2012)](http://mimosa-pudica.net/improved-oren-nayar.html)
 - [Plausible Environment Lighting in Two Lines of Code (2013)](http://casual-effects.blogspot.ca/2011/08/plausible-environment-lighting-in-two.html)
@@ -57,8 +57,8 @@ This will download all PDFs and power-point slides into a folder called `resourc
 ## Color Space
 
 - [CodingLabs: Gamms vs Linear](http://www.codinglabs.net/article_gamma_vs_linear.aspx)
-- [Filmic Games: Linear-Space Lighting (i.e. Gamma) (2010)](http://filmicgames.com/archives/299)
-- [GPU Gems 3: The Importance of Being Linear (2008)](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch24.html)
+- [Filmic Games: Linear-Space Lighting (i.e. Gamma) (2010)](http://filmicworlds.com/blog/linear-space-lighting-i-e-gamma/)
+- [GPU Gems 3: The Importance of Being Linear (2008)](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch24.html)
 
 ## Light & Shadow
 
