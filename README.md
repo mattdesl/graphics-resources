@@ -56,7 +56,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 
 ## Color Space
 
-- [CodingLabs: Gamms vs Linear](http://www.codinglabs.net/article_gamma_vs_linear.aspx)
+- [CodingLabs: Gamma vs Linear](http://www.codinglabs.net/article_gamma_vs_linear.aspx)
 - [Filmic Games: Linear-Space Lighting (i.e. Gamma) (2010)](http://filmicgames.com/archives/299)
 - [GPU Gems 3: The Importance of Being Linear (2008)](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch24.html)
 
