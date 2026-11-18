@@ -184,6 +184,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [Modified AMD Cubemapgen](https://seblagarde.wordpress.com/2012/06/10/amd-cubemapgen-for-physically-based-rendering/) - cubemap filtering tool
 - [preview-dds](https://github.com/Jam3/preview-dds) - minimal cross-platform DDS previewer
 - [CrazyBump](http://www.crazybump.com/)
+- [Shader Learn Playground](https://shader-learn.com/playground) - browser-based GLSL editor with live previews, time controls, texture inputs and configurable uniforms.
 
 ## License
 
